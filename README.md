@@ -18,8 +18,8 @@ int array[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
 ```
 
 Important things to have in mind:
-	- Index starts at 0
-	- Array lenght is 10 which means it can store 10 elements
-	- Each element can be accessed via its index.
+- Index starts at 0
+- Array lenght is 10 which means it can store 10 elements
+- Each element can be accessed via its index.
 
 ### Basic Operation
