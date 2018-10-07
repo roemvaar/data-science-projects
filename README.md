@@ -23,3 +23,23 @@ Important things to have in mind:
 - Each element can be accessed via its index.
 
 ### Basic Operation
+
+- Traverse - print all elements one by one 
+- Instersion - adds an element at the given index
+- Deletion - deletes an element at the given index
+- Search - searches an element using the given index or by the value
+- Update - updates an element at the given index
+
+In C, when an array is initialized with size, it assigns default values to its 
+elements.
+
+
+## Operations
+
+## Instertion operation 
+
+Insert operation is to add one or more data elements into an array. A new element 
+can be inserted at the beginning, end or any given index of array.
+
+https://www.tutorialspoint.com/data_structures_algorithms/dsa_quick_guide.htm
+[Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/dsa_quick_guide.htm)
