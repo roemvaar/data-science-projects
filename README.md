@@ -36,10 +36,11 @@ elements.
 
 ## Operations
 
-## Instertion operation 
+### Insertion operation 
 
-Insert operation is to add one or more data elements into an array. A new element 
-can be inserted at the beginning, end or any given index of array.
+Insert operation is to add one or more data elements into an array. A new element can be inserted at the beginning, end or any given index of array.
 
-https://www.tutorialspoint.com/data_structures_algorithms/dsa_quick_guide.htm
-[Tutorials Point](https://www.tutorialspoint.com/data_structures_algorithms/dsa_quick_guide.htm)
+Here we see an [example](https://www.github.com/) of insertion where we add data at the end of the array.
+
+For other variations of array insertion operation click [here](https://www.github.com/) 
+
