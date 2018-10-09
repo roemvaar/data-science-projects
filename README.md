@@ -18,14 +18,14 @@ int array[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
 ```
 
 Important things to have in mind:
-- Index starts at 0
-- Array lenght is 10 which means it can store 10 elements
+- Index starts at 0.
+- Array lenght is 10 which means it can store 10 elements.
 - Each element can be accessed via its index.
 
 ### Basic Operation
 
 - Traverse - print all elements one by one 
-- Instersion - adds an element at the given index
+- Insertion - adds an element at the given index
 - Deletion - deletes an element at the given index
 - Search - searches an element using the given index or by the value
 - Update - updates an element at the given index
@@ -42,5 +42,12 @@ Insert operation is to add one or more data elements into an array. A new elemen
 
 Here we see an [example](https://www.github.com/) of insertion where we add data at the end of the array.
 
-For other variations of array insertion operation click [here](https://www.github.com/) 
+For other variations of array insertion operation click [here](https://www.github.com/).
+
+### Deletion operation 
+
+Deletion refers to removing an existing element from the array and re-organizing all elements of an array. 
+
+[Example](https://www.github.com)
+
 
