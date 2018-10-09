@@ -1,53 +1,13 @@
-# Arrays 
+# Linked List
 
-### Description 
+### Description
 
-Array is a container wich can hold a fix number of items and these
-items should be of the same type. 
+A linked list is a sequence of data structures, which are connected together via links. 
 
-- **Element**: each item stored in an array is called an element. 
-- **Index**: each location of an element in an array has a numerical index,
-which is used to identify the element. 
+Linked list is a sequence of links which contains items. Each link contains a connection to another link. Linked list is the second most-used data structure after [array](github.com). 
 
-### Declaration 
+- **Link**: each link of a linked list can store a data called an element.
+- **Next**: each link of a linked list contains a link to the next link called Next. 
+- **LinkedList** - A linked list contains the connection link to the first link called First.
 
-It varies depending on the language. A C array declaration:
-
-```c
-int array[10] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
-```
-
-Important things to have in mind:
-- Index starts at 0.
-- Array lenght is 10 which means it can store 10 elements.
-- Each element can be accessed via its index.
-
-### Basic Operation
-
-- Traverse - print all elements one by one 
-- Insertion - adds an element at the given index
-- Deletion - deletes an element at the given index
-- Search - searches an element using the given index or by the value
-- Update - updates an element at the given index
-
-In C, when an array is initialized with size, it assigns default values to its 
-elements.
-
-
-## Operations
-
-### Insertion operation 
-
-Insert operation is to add one or more data elements into an array. A new element can be inserted at the beginning, end or any given index of array.
-
-Here we see an [example](https://www.github.com/) of insertion where we add data at the end of the array.
-
-For other variations of array insertion operation click [here](https://www.github.com/).
-
-### Deletion operation 
-
-Deletion refers to removing an existing element from the array and re-organizing all elements of an array. 
-
-[Example](https://www.github.com)
-
-
+![linked list](C:\Users\reva_\Downloads\ll.png)
