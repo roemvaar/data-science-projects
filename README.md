@@ -6,12 +6,14 @@
 |					|				|				|				|
 |  					|  				| 				| 				|
 | Memory requirements | Fixed size | No unused memory | Depends on size of the list	| 
-|| Memory may not be available as one large block| Extra memory for pointer variables | Memory fragmentation - Linked list is better*|
+|| Memory may not be available as one large block| Extra memory for pointer variables | Memory fragmentation - Linked list is better :one:|
 |  	|  | 	| 	|
 
 
 
-/* Sometimes we may get many small units of memory, but we may not get one larga block.
+:one: Sometimes we may get many small units of memory, but we may not get one larga block.
+
+
 
 
 
