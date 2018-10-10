@@ -2,6 +2,5 @@
 
 | 					| Array		    | Linked List	|
 | ------------- 	| ------------- | ------------- |
-| Cost of accesing  | Constant time | 				|
-| an element  		|     O(1) 		|				|
-
+| Cost of accesing  | Constant time O(1)  | 				|
+ an element  		     						
