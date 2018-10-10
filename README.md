@@ -2,8 +2,7 @@
 
 | 		Parameter			| Array		    | Linked List	| Better for parameter	|
 | ------------- 	| ------------- | ------------- | ------------- |
-| Cost of accesing  | Constant time | Average case 	| Array			|
-| an element  		|     O(1)  	| 	 	O(n)	|				|
+| Cost of accesing an element  | Constant time O(1)| Average case O(n) 	| Array			|
 |					|				|				|				|
 |  	|  | 	| 	|
 | Memory requirements | Fixed size	| No unused memory | Depends on size of the list 	| 
