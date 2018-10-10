@@ -6,5 +6,6 @@
 | an element  		|     O(1)  	| 	 	O(n)	|				|
 |					|				|				|				|
 |  	|  | 	| 	|
-| Memory requirements | Fixed size	| - No unused memory | 			| 
-|					|				| - Extra memory for pointer variables		|				|
+| Memory requirements | Fixed size	| No unused memory | Depends on size of the list 	| 
+|					| Memory may not be available as one large block				| Extra memory for pointer variables		|				|
+|  	|  | 	| 	|
