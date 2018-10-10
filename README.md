@@ -1,6 +1,10 @@
 # Array vs Linked List
 
-| 					| Array		    | Linked List	|
-| ------------- 	| ------------- | ------------- |
-| Cost of accesing  | Constant time O(1)  | 				|
- an element  		     						
+| 		Parameter			| Array		    | Linked List	| Better for parameter	|
+| ------------- 	| ------------- | ------------- | ------------- |
+| Cost of accesing  | Constant time | Average case 	| Array			|
+| an element  		|     O(1)  	| 	 	O(n)	|				|
+|					|				|				|				|
+| ------------- 	| ------------- | ------------- | ------------- |
+| Memory requirements | Fixed size	| - No unused memory | 			| 
+|					|				| - Extra memory for pointer variables		|				|
