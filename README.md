@@ -1,6 +1,6 @@
 # Array vs Linked List
 
-| 		Parameter			| Array		    | Linked List	| Better for parameter	|
+| 		**Parameter**			| **Array**		    | **Linked List**	| **Better for parameter**	|
 | ------------- 	| ------------- | ------------- | ------------- |
 | Cost of accesing an element  | Constant time O(1)| Average case O(n) 	| Array			|
 |					|				|				|				|
