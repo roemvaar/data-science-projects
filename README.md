@@ -1,13 +1,7 @@
-# Linked List
+# Array vs Linked List
 
-### Description
+| 					| Array		    | Linked List	|
+| ------------- 	| ------------- | ------------- |
+| Cost of accesing  | Constant time | 				|
+| an element  		|     O(1) 		|				|
 
-A linked list is a sequence of data structures, which are connected together via links. 
-
-Linked list is a sequence of links which contains items. Each link contains a connection to another link. Linked list is the second most-used data structure after [array](github.com). 
-
-- **Link**: each link of a linked list can store a data called an element.
-- **Next**: each link of a linked list contains a link to the next link called Next. 
-- **LinkedList** - A linked list contains the connection link to the first link called First.
-
-![linked list](https://www.geeksforgeeks.org/wp-content/uploads/gq/2013/03/Linkedlist_insert_at_start.png)
