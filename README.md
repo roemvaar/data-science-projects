@@ -10,5 +10,5 @@ This repository contains some of my data science and machine learning projects. 
  
 
 ## Datasets
-- [911.csv](https://www.kaggle.com/mchirico/montcoalert): Emergency - 911 Calls Montgomery County, PA
-- [Ecommerce Customers](https://github.com/roemvaar/data-science-projects/blob/master/data/Ecommerce%20Customers): Customer info of an Ecommerce company.
+- [911.csv](https://www.kaggle.com/mchirico/montcoalert): 911 emergency calls from Montgomery County, PA
+- [Ecommerce Customers](https://github.com/roemvaar/data-science-projects/blob/master/data/Ecommerce%20Customers): customer info of an e-commerce company.
