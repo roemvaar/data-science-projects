@@ -7,7 +7,7 @@ This repository contains some of my data science and machine learning projects. 
 - [Financial data analysis](https://github.com/roemvaar/data-science-projects/blob/master/financial-data-analysis.ipynb): exploratory data analysis of financial data obtained from yahoo finance using pandas_datareader.
 - [Linear regression](https://github.com/roemvaar/data-science-projects/blob/master/linear-regression.ipynb): analysis of customers data and investment prediction using linear regression.  
 - [Logistic regression - Titanic](https://github.com/roemvaar/data-science-projects/blob/master/logistic-regression-titanic.ipynb): classification exercise using logistic regression on the famous titanic dataset from kaggle. 
-- [Logistic regression - adrvertisement](https://github.com/roemvaar/data-science-projects/blob/master/logistic-regression-ads.ipynb): model that predict whether or not a client will click on an ad based off the features of that user.
+- [Logistic regression - advertisement](https://github.com/roemvaar/data-science-projects/blob/master/logistic-regression-ads.ipynb): model that predict whether or not a client will click on an ad based off the features of that user.
 - [Sigmoid function](https://github.com/roemvaar/data-science-projects/blob/master/sigmoid-function.ipynb): implementation of the sigmoid function in python. 
  
 
